@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\chick\Documents\Labo2\Laboratoire2\Laboratoire2\main.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

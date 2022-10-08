@@ -1,0 +1,9 @@
+Bonjour le code de notre projet est dans le dossier Laboratoire2
+
+Pour faire fonctionné le projet nous l'avons builder dans microsoft visual studio.
+
+Par la suite nous utilisons le fichier scrypt.py pour lancer notre projet. 
+
+Veuiller ajouté le path du video ( <ici> ) dans la 4e ligne du script soit Laboratoire2.lecteur(r"<ici>")
+
+Merci beaucoup

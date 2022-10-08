@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\chick\Documents\Labo2\Lab2\Laboratoire2\main.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\chick\Documents\Labo2\Lab2\Debug\Laboratoire2_d.lib and object C:\Users\chick\Documents\Labo2\Lab2\Debug\Laboratoire2_d.exp
+main.obj : error LNK2019: unresolved external symbol __imp__Py_BuildValue referenced in function "struct _object * __cdecl random(struct _object *,struct _object *)" (?random@@YAPAU_object@@PAU1@0@Z)
+main.obj : error LNK2019: unresolved external symbol __imp__PyModule_Create2 referenced in function _PyInit_cModPyDem
+C:\Users\chick\AppData\Local\Programs\Python\Python310\libs\python310_d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\chick\Documents\Labo2\Lab2\Debug\Laboratoire2_d.pyd : fatal error LNK1120: 2 unresolved externals
